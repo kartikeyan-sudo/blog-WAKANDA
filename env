@@ -1,0 +1,5 @@
+DATABASE_URL=postgresql://postgres:rHIiwc68iNZwTFeC@db.kdlwxtjtonjckrtaepdr.supabase.co:5432/postgres
+NEXTAUTH_SECRET=Q2h1bmt5U2VjdXJlU3RyaW5nMTIzIT8kKiYoKSctPUB+
+NEXTAUTH_URL=http://localhost:3000
+SUPABASE_URL=https://db.kdlwxtjtonjckrtaepdr.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtkbHd4dGp0b25qY2tydGFlcGRyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc3ODc3MDUsImV4cCI6MjA2MzM2MzcwNX0.cRVcQkinNEkCLkFFdFnodu62P-8VGQSDbi17zkgMyY4
